@@ -1,9 +1,13 @@
+# Hi, I'm Gerawerk 👋
+
+
+
+## 🚀 GitHub Stats
+![Gerawerk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerawerk&show_icons=true&theme=radical)
 
 ## 🚀 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername)](https://leetcode.com/gerawerk)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gerawerk)](https://leetcode.com/gerawerk)
 
-
-## Hi there 👋
 
 <!--
 **gerawerk/gerawerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
