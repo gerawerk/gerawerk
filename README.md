@@ -1,3 +1,8 @@
+
+## 🚀 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername)](https://leetcode.com/gerawerk)
+
+
 ## Hi there 👋
 
 <!--
